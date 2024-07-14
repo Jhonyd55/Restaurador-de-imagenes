@@ -1,5 +1,5 @@
 # Inpainting GUI
-<center><img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/images.gif" width="60%"></img></center>
+<img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/images.gif" width="60%"></img>
 
 Inpainting GUI es una aplicación desarrollada en Python utilizando `tkinter` y `OpenCV` para la restauración de imágenes dañadas mediante técnicas de inpainting. La aplicación permite cargar imágenes dañadas y máscaras opcionales, y ofrece dos métodos de inpainting: Telea y Navier-Stokes. Además, incluye un editor de máscaras para personalizar las áreas a restaurar.
 
