@@ -1,0 +1,6 @@
+# si no funciona
+#pip uninstall opencv-python
+#pip uninstall opencv-contrib-python
+certifi==2020.12.5
+numpy==1.19.5
+opencv-contrib-python==4.5.1.48
