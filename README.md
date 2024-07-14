@@ -1,5 +1,5 @@
 # Inpainting GUI
-<img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/images.gif" width="60%"></img> 
+<center><img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/images.gif" width="60%"></img></center>
 
 Inpainting GUI es una aplicación desarrollada en Python utilizando `tkinter` y `OpenCV` para la restauración de imágenes dañadas mediante técnicas de inpainting. La aplicación permite cargar imágenes dañadas y máscaras opcionales, y ofrece dos métodos de inpainting: Telea y Navier-Stokes. Además, incluye un editor de máscaras para personalizar las áreas a restaurar.
 
@@ -36,11 +36,11 @@ Inpainting GUI es una aplicación desarrollada en Python utilizando `tkinter` y 
 ## Uso
 
 ### Inpainting GUI
-<img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/inpainting_app.png" width="30%"></img> 
+<img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/inpainting_app.png" width="63%"></img> 
 
-Para ejecutar la aplicación principal de inpainting:
+Para ejecutar la aplicación principal de inpaint:
 
-python inpainting_app.py
+python inpaint.py
 
 ## Pasos para Restaurar una Imagen
 
@@ -59,16 +59,16 @@ python inpainting_app.py
 - Guarda la imagen restaurada haciendo clic en "Guardar Imagen Restaurada".
 
 ### Editor de Máscara
-<img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/maskEditor.png" width="30%"></img> 
+<img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/maskEditor.png" width="52%"></img> 
 
 Para ejecutar el editor de máscara:
 
-python mask_editor.py
+python maskEditor.py
 
 
 ## Crear una Máscara
 
-- Ejecuta mask_editor.py.
+- Ejecuta maskEditor.py.
 
 - Carga una imagen haciendo clic en "Cargar Imagen".
 
