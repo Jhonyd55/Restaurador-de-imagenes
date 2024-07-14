@@ -36,7 +36,7 @@ Inpainting GUI es una aplicación desarrollada en Python utilizando `tkinter` y 
 ## Uso
 
 ### Inpainting GUI
-<img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/images.gif" width="30%"></img> 
+<img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/inpainting_app.png" width="30%"></img> 
 
 Para ejecutar la aplicación principal de inpainting:
 
@@ -59,7 +59,7 @@ python inpainting_app.py
 - Guarda la imagen restaurada haciendo clic en "Guardar Imagen Restaurada".
 
 ### Editor de Máscara
-<img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/images.gif" width="30%"></img> 
+<img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/maskEditor.png" width="30%"></img> 
 
 Para ejecutar el editor de máscara:
 
