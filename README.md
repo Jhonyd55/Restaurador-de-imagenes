@@ -36,30 +36,47 @@ Inpainting GUI es una aplicación desarrollada en Python utilizando `tkinter` y 
 ## Uso
 
 ### Inpainting GUI
+<img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/images.gif" width="30%"></img> 
 
 Para ejecutar la aplicación principal de inpainting:
-```bash
+
 python inpainting_app.py
 
+## Pasos para Restaurar una Imagen
 
+- Ejecuta inpainting_app.py.
 
-###Editor de Máscara
+- Carga una imagen dañada haciendo clic en "Cargar Imagen Dañada".
+
+- Opcional: Carga una máscara haciendo clic en "Cargar Máscara (Opcional)".
+
+- Selecciona el método de inpainting (Telea o Navier-Stokes).
+
+- Ajusta el umbral si es necesario.
+
+- Haz clic en "Restaurar Imagen" y espera a que el proceso termine.
+
+- Guarda la imagen restaurada haciendo clic en "Guardar Imagen Restaurada".
+
+### Editor de Máscara
+<img src="https://raw.githubusercontent.com/Jhonyd55/Restaurador-de-imagenes/Restaurador-de-imagenes/images.gif" width="30%"></img> 
 
 Para ejecutar el editor de máscara:
-```bash
-python mask_editor.pyPasos para Restaurar una Imagen
-Ejecuta inpainting_app.py.
-Carga una imagen dañada haciendo clic en "Cargar Imagen Dañada".
-Opcional: Carga una máscara haciendo clic en "Cargar Máscara (Opcional)".
-Selecciona el método de inpainting (Telea o Navier-Stokes).
-Ajusta el umbral si es necesario.
-Haz clic en "Restaurar Imagen" y espera a que el proceso termine.
-Guarda la imagen restaurada haciendo clic en "Guardar Imagen Restaurada".
-Crear una Máscara
-Ejecuta mask_editor.py.
-Carga una imagen haciendo clic en "Cargar Imagen".
-Dibuja en la imagen para crear la máscara. Ajusta el grosor del lápiz si es necesario.
-Guarda la máscara haciendo clic en "Crear Máscara".
+
+python mask_editor.py
+
+
+## Crear una Máscara
+
+- Ejecuta mask_editor.py.
+
+- Carga una imagen haciendo clic en "Cargar Imagen".
+
+- Dibuja en la imagen para crear la máscara.
+
+- Ajusta el grosor del lápiz si es necesario.
+
+- Guarda la máscara haciendo clic en "Crear Máscara".
 
 
 
