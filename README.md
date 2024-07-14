@@ -81,4 +81,3 @@ python maskEditor.py
 
 
 
-"# Restaurador-de-imagenes" 
